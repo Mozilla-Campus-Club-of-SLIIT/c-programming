@@ -10,9 +10,9 @@
  
 - <a href="SYLLABUS.md" title="Click here to Check the Syllabus of this Course" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📚 Syllabus</a>
  
-- <a href="https://github.com/saputhebeast/c-programming/tree/main/Assignments" title="Click here to see Assignments related to this Course" style="background-color:#FFFFFF;color:#000000;text-decoration:none">✍️ Assignments</a>
+- <a href="https://github.com/Mozilla-Campus-Club-of-SLIIT/c-programming/tree/main/Assignments" title="Click here to see Assignments related to this Course" style="background-color:#FFFFFF;color:#000000;text-decoration:none">✍️ Assignments</a>
 
-- <a href="https://github.com/saputhebeast/c-programming/blob/main/RESOURCES.md" title="CP Lover? Click here to get some awesome resources related to C Programming" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🏆 C Programming Resources</a>
+- <a href="https://github.com/Mozilla-Campus-Club-of-SLIIT/c-programming/tree/main/RESOURCES.md" title="CP Lover? Click here to get some awesome resources related to C Programming" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🏆 C Programming Resources</a>
 
 
 ### Connect with Us
