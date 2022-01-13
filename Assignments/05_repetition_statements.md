@@ -54,7 +54,7 @@
     2. Find the maximum consecutive 1's in a string of 0's and 1's.
         Eg: 00110001001110 - Output :3 [Max number of consecutive 1's is 3]
 
-    3. Write a method to count the number of 2s in given range of integers.
+    3. Write a C program to count the number of 2s in given range of integers.
         Sample output:
             Input start number: 10
             Input end number: 20
@@ -65,3 +65,4 @@
         Sample output:
             Input binary number: 1010
             Decimal value: 10
+    
