@@ -2,14 +2,14 @@
 # Practice how to use variables in printf statement
     what does the following print? Assume x = 2 and y = 3
 
-    1. printf(“*\n**\n***\n****\n*****\n”);
-    2. printf( “%d”, x + x );
-    3. printf( “x = “);
-    4. printf( “x=%d”, x);
-    5. printf( “%d = %d”, x+y, y+x);
-    6. /* printf( “%d”, x+y ); */
-    7. printf(“\n”);
-    8. float z = 45.567; printf(“value is %.2f”, z);
+    1. printf("*\n**\n***\n****\n*****\n");
+    2. printf( "%d", x + x);
+    3. printf( "x = ");
+    4. printf( "x=%d", x);
+    5. printf( "%d = %d", x+y, y+x);
+    6. /* printf( "%d", x+y ); */
+    7. printf("\n");
+    8. float z = 45.567; printf("value is %.2f", z);
 
 
 # Practice number formatting
