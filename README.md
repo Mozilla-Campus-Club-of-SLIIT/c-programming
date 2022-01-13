@@ -27,6 +27,6 @@
   </a>
   
   ## Thanks to all the contributors ❤️
-<a href = "https://github.com/saputhebeast/c-programming/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=saputhebeast/c-programming"/>
+<a href = "https://github.com/Mozilla-Campus-Club-of-SLIIT/c-programming/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=Mozilla-Campus-Club-of-SLIIT/c-programming"/>
 </a>
